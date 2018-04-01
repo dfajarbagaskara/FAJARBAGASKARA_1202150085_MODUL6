@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535146207172",
+    "firebase_url": "https://fajar1202150085modul6.firebaseio.com",
+    "project_id": "fajar1202150085modul6",
+    "storage_bucket": "fajar1202150085modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535146207172:android:07babfc02b56adb4",
+        "android_client_info": {
+          "package_name": "id.odt.fajar_1202150085_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535146207172-lqs0ovbci8dg9caq77opa069pc9h0opi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.fajar_1202150085_modul6",
+            "certificate_hash": "5c35f5f7c717dce008fab0f04957c0bb35f23f67"
+          }
+        },
+        {
+          "client_id": "535146207172-fk4okesdkeidec0473i9grqnh593l17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZfDuLBgSTx44BBSXxhqTwC1_mfXDbVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535146207172-fk4okesdkeidec0473i9grqnh593l17c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
